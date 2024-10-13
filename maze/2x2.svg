@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg width='60.0' height='60.0'>
+<line x1='7.5' y1='50.0' x2='32.5' y2='50.0' stroke='black' stroke-width='5.0' />
+<line x1='20.0' y1='20.0' x2='20.0' y2='20.0' stroke='green' stroke-width='5.0' />
+<line x1='40.0' y1='20.0' x2='30.0' y2='20.0' stroke='green' stroke-width='5.0' />
+<line x1='27.5' y1='10.0' x2='52.5' y2='10.0' stroke='black' stroke-width='5.0' />
+<line x1='10.0' y1='27.5' x2='10.0' y2='52.5' stroke='black' stroke-width='5.0' />
+<line x1='30.0' y1='27.5' x2='30.0' y2='52.5' stroke='black' stroke-width='5.0' />
+<line x1='27.5' y1='50.0' x2='52.5' y2='50.0' stroke='black' stroke-width='5.0' />
+<line x1='50.0' y1='27.5' x2='50.0' y2='52.5' stroke='black' stroke-width='5.0' />
+<line x1='17.5' y1='20.0' x2='30.0' y2='20.0' stroke='green' stroke-width='5.0' />
+<line x1='7.5' y1='10.0' x2='32.5' y2='10.0' stroke='black' stroke-width='5.0' />
+<circle cx='20.0' cy='20.0' r='5.0' stroke='blue' stroke-width='5.0' fill='blue' />
+<circle cx='40.0' cy='20.0' r='5.0' stroke='red' stroke-width='5.0' fill='red' />
+</svg>
