@@ -1,2 +1,2 @@
 # maze
-A program to generate and solve mazes.
+Un programa para generar y resolver laberintos.
